@@ -34,15 +34,15 @@ revision = "6587b84e4fb0711bd7d0930b415ca7937e72021b"
 
 [lock."github.com/buckaroo-pm/boost-any"]
 versions = [ "branch=master" ]
-revision = "d3dc0d647ec7e85522da3157608b8db88db0bb5a"
+revision = "81b98182cb3314fab2ac4a30fc2cccb43b7cff51"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "ea0eab9a8cf538aa81a7d53f1762a5ff7e628e73"
+revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-asio"]
 versions = [ "branch=master" ]
-revision = "2b4ae750171639f289457b3100d2d7a41a321b8f"
+revision = "d62786cd16234f8451de2676ba31e75578863a30"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -130,7 +130,7 @@ revision = "9f6d656caf4b0037327c426219de6ef676a2ccdc"
 
 [lock."github.com/buckaroo-pm/boost-math"]
 versions = [ "branch=master" ]
-revision = "83091dd8c4b3939e58a3619104504cdda212673a"
+revision = "e5e11d021064a102a7f1258c8c52fcb40ca25be9"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
@@ -139,6 +139,10 @@ revision = "3f0711cabd643ed902ff3ae3d6746ba2f7256e4e"
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
 revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
+
+[lock."github.com/buckaroo-pm/boost-multiprecision"]
+versions = [ "branch=master" ]
+revision = "466fe3d1bec248781b4b26d98ee6cf0f57d92017"
 
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
@@ -188,6 +192,10 @@ revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 versions = [ "branch=master" ]
 revision = "16cad275bcf88549063d1f01a4fbf483ea36e7cd"
 
+[lock."github.com/buckaroo-pm/boost-test"]
+versions = [ "branch=master" ]
+revision = "205019c90a5e5e839fecabe65c3424f3a5887c49"
+
 [lock."github.com/buckaroo-pm/boost-thread"]
 versions = [ "branch=master" ]
 revision = "aeccb01c5ddaaec679f3c9651c0bc6dbdb7d2728"
@@ -195,6 +203,10 @@ revision = "aeccb01c5ddaaec679f3c9651c0bc6dbdb7d2728"
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
 revision = "788503e2365554d1860c6d2043999e3430d1f7a5"
+
+[lock."github.com/buckaroo-pm/boost-timer"]
+versions = [ "branch=master" ]
+revision = "78b132cf3377047d805c1ebbd90b11a0d2b9bdae"
 
 [lock."github.com/buckaroo-pm/boost-tokenizer"]
 versions = [ "branch=master" ]
@@ -216,9 +228,13 @@ revision = "b8e0fcc49cede65c3b4ef18ed5aa797225578467"
 versions = [ "branch=master" ]
 revision = "e8cb7bc76c55f02a24f824fecf5cdf0629dc3aa4"
 
+[lock."github.com/buckaroo-pm/boost-ublas"]
+versions = [ "branch=master" ]
+revision = "1cf282fd9cca5c81388251c25c65adc0d3f8cfb3"
+
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
-revision = "7fe9837e937e161a537fcb869a678bfe54d18b2c"
+revision = "9a7c3874ccb07bdb26fd1e79905aeadb53488b7a"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
@@ -230,11 +246,11 @@ revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "d6803681f02ef9395665d4db6e84a4416a679bc3"
+revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
 
 [lock."github.com/buckaroo-pm/openssl"]
 versions = [ "tag=1.0.2k" ]
-revision = "234d606970c3cb1dbf516735e18c6b895320a69e"
+revision = "e029e2015f270f09956b7e310e5020e9ff1a9721"
 
 [lock."github.com/buckaroo-pm/zaphoyd-websocketpp"]
 versions = [ "branch=master" ]
