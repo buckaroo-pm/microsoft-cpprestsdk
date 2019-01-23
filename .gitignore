@@ -73,3 +73,12 @@ Build_android/build/
 Generated Files/
 # Ignore iOS temp build directories
 Build_iOS/Apple-Boost-BuildScript
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
+
+out.txt

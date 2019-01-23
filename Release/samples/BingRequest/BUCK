@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'BingRequest',
+  srcs = [
+    'bingrequest.cpp',
+  ],
+  deps = [
+    '//:cpprestsdk',
+  ],
+)

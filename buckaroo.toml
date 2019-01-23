@@ -1,0 +1,25 @@
+targets = [ "//:cpprestsdk" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-asio"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-date_time"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-thread"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/openssl"
+version = "tag=1.0.2k"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/zaphoyd-websocketpp"
+version = "branch=master"
